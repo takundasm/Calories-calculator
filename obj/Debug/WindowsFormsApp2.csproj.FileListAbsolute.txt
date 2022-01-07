@@ -1,0 +1,20 @@
+C:\Users\E5570\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\E5570\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\E5570\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\E5570\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\E5570\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\E5570\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\E5570\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\E5570\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\E5570\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\E5570\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\E5570\Desktop\1003 again\Lecture 9\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
